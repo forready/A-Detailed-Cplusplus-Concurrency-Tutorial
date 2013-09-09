@@ -95,7 +95,7 @@ C++11 新标准中引入了四个头文件来支持多线程编程，他们分�
         std::cout << "hello thread" << std::endl;
     }
 
-    /*
+    /**
      * ===  FUNCTION  =========================================================
      *         Name:  main
      *  Description:  program entry routine.
